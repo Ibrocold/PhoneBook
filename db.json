@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234348",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck ",
+      "number": "39-23-6423122",
+      "id": "dVQm60uNGRw"
+    },
+    {
+      "name": "cuckoo",
+      "number": "88888",
+      "id": "StBIyTz1XCc"
+    },
+    {
+      "name": "mama",
+      "number": "8889",
+      "id": "DwWiLzDQ_sA"
+    },
+    {
+      "name": "mama",
+      "number": "8889",
+      "id": "aZWYPR3PScc"
+    },
+    {
+      "name": "mama",
+      "number": "8889",
+      "id": "42qilCoGcAg"
+    },
+    {
+      "name": "mama",
+      "number": "8889",
+      "id": "5ZXgrTqd-QU"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234347",
+      "id": "gIEo8xMenWk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
